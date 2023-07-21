@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratham</h1>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNpneINM-O2a9L0kmj954G7OzQCiuKNpOv_kHaWPlH3w&usqp=CAU&ec=48665699.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pg348&label=Profile%20views&color=0e75b6&style=flat" alt="pg348" /> </p>
 
 - 📝 Computer Science Undergraduate at **Shiv Nadar University**
