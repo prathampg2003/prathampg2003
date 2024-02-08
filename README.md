@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Backend development**
 
-- 💬 Started exploring **AWS**
+- 💬 **Turning Coffee into Code**
 
 - 📫 How to reach me **prathampg2003@gmail.com**
 
