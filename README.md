@@ -6,8 +6,6 @@
 
 - 💬 Software Engineer at **Xanadu-- https://www.xanadu.in/**
 
-- 🌱 I’m currently learning **Backend development**
-
 - 💬 **Turning Coffee into Code**
 
 - 📫 How to reach me **prathampg2003@gmail.com**
