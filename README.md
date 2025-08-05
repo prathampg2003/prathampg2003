@@ -4,6 +4,8 @@
 
 - 📝 Computer Science Undergraduate at **Shiv Nadar University**
 
+- 💬 Software Engineer at **Xanadu-- https://www.xanadu.in/**
+
 - 🌱 I’m currently learning **Backend development**
 
 - 💬 **Turning Coffee into Code**
